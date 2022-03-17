@@ -9,4 +9,4 @@ All images included in assets folder.
 Deployed live URL link:
 https://samanthalord22.github.io/Portfolio-Week2/
 
-Image of live website:
+Image of live website: ./Assets/Screenshot2.png
