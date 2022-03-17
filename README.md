@@ -5,3 +5,8 @@ Sections include a Welcome section, About, Projects, Resume, and Contact.
 Projects are a row of 4 images with links; when image is hovered over it zooms in.
 Resume and Contact include links.
 All images included in assets folder.
+
+Deployed live URL link:
+https://samanthalord22.github.io/Portfolio-Week2/
+
+Image of live website:
