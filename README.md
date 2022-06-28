@@ -1,4 +1,4 @@
-# Portfolio-Week2
+# Portfolio
 Web page includes a navigation bar with links to take you to that section on page.
 Name, title, and self picture; picture included in assets folder.
 Sections include a Welcome section, About, Projects, Resume, and Contact.
