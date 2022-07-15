@@ -1,7 +1,5 @@
-/*background color and font style*/
 body {
-    /* background: linear-gradient(0.25turn, #19388d,  #288ae7, #19388d); */
-      background-image: url('https://wallpaperaccess.com/full/3620560.jpg');
+    background-image: url('https://wallpaperaccess.com/full/3620560.jpg');
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-position: center;
@@ -18,7 +16,7 @@ body {
     border-radius: 20px;
     padding: 10px;
 }
-/*header has larger text and aligned to center of screen*/
+
 h1 {
     text-shadow: black 3.5px 3px;
     font-size: 38px;
@@ -48,7 +46,7 @@ h3 {
     border-radius: 20px;
     padding: 10px;
 }
-/*navbar has background color and links to sections in webpage*/
+
 .navbar {
     list-style-type: none;
     display: flex;
@@ -60,7 +58,7 @@ h3 {
     border-radius: 20px;
     padding: 10px;
 }
-/*for image to grow when used with hover*/
+
 .overlay {
     display: flex;
     flex-direction: row;
@@ -71,7 +69,7 @@ h3 {
 #bold {
     text-shadow: black 2.5px 1.5px;
 }
-/*list of projects in a row*/
+
 
 #project2 {
     display: flex;
@@ -80,7 +78,7 @@ h3 {
     justify-content: space-between;
     list-style: none;
 }
-/*image will grow when hovered on*/
+
 .overlay:hover {
     transform:scale(1.3);
 }
